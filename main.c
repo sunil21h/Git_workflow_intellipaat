@@ -21,7 +21,7 @@ feature2(){
 
 feature1(){
 	
-	// this is my first feature, sample code 
+	// this is my first feature,  sample code 
 
 }
 }
